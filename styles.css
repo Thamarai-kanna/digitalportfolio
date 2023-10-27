@@ -1,0 +1,85 @@
+.color{
+    background-color: ;
+
+}
+#profile-picture img{
+    width: 150px;
+    height: 150px;
+    border-radius:  50% ;
+    object-position: center;
+
+
+}
+
+.welcome {
+    width: 100%;
+    height: 40px;
+    background-color: ;
+    text-align: center;
+    color: rgb(8, 63, 92);
+    width: 100%;
+    height: 50px;
+}
+.explanation {
+    background-color: ;
+    color: black;
+    width: 55.5%;
+    
+}
+.container {
+    width: 100%;
+    background-color:gray ;
+}
+.skillset {
+    text-align: right;
+    color: beige;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.html{
+    width: 75%;
+    background-color: blue;
+}
+.container1 {
+    width: 100%;
+    background-color:gray  ;
+}
+.skillset1 {
+    text-align: right;
+    color: beige;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.css {
+    width: 65%;
+    background-color: rgb(46, 188, 46);
+}
+.container2{
+    width: 100%;
+    background-color:gray ;
+
+}
+.skillset2 {
+    text-align: right;
+    color: blanchedalmond;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.python {
+    width: 80%;
+    background-color: darkgoldenrod;
+}
+.contact {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+
+}
+body{
+    background: url(./images/1.webp);
+    background-size: cover;
+    background-position: center;
+}
+p{
+    font-size: medium;
+}
